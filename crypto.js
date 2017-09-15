@@ -6,6 +6,10 @@
 
 var $modes = [
   {
+    "subtitle": "XRP: $cc_jpy_xrp\nXEM: $cc_jpy_xem",
+    "body": "BTC: $cc_jpy_btc\nBCH: $cc_jpy_bch"
+  },
+  {
     "subtitle": "XRP MODE",
     "body": "C: $cc_jpy_xrp\nC: $cc_btc_xrp\nB: $bt_btc_xrp\nP: $polo_btc_xrp"
   },
@@ -32,10 +36,6 @@ var $modes = [
   {
     "subtitle": "CMC Mode",
     "body": "PINK: $cmc_jpy_pinkcoin\n420G: $cmc_jpy_ganjacoin\nTIT: $cmc_jpy_titcoin\nDOGE: $cmc_jpy_dogecoin"
-  },
-  {
-    "subtitle": "XRP: $cc_jpy_xrp\nXEM: $cc_jpy_xem",
-    "body": "BTC: $cc_jpy_btc\nBCH: $cc_jpy_bch"
   },
 ]
 
