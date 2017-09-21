@@ -13,7 +13,7 @@ var $modes = [
     "body": "BTC: $cc_jpy_btc\nBCH: $cc_jpy_bch\nZEC: $cc_jpy_zec"
   },
   {
-    "subtitle": "BTC MODE",
+    "subtitle": "BTC ﾓｰﾄﾞ",
     "body": "C: $cc_jpy_btc\nC: $cc_usd_btc\nB: $bt_usdt_btc\nP: $polo_usdt_btc"
   },
   {
